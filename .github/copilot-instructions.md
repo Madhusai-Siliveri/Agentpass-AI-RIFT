@@ -1,0 +1,1 @@
+When build errors occur, analyze the entire project, identify every TypeScript, React, Go, API, routing, database, and build error, fix all issues without changing the intended functionality, and ensure the project builds successfully.
